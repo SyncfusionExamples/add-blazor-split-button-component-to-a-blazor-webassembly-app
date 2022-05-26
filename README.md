@@ -35,7 +35,7 @@ You can use a horizontal line separator to represent similar action items as a g
 
 [Documentation](https://blazor.syncfusion.com/documentation/split-button/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-split-buttons-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/buttons/split-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-split-buttons-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/add-blazor-split-button-component-to-a-blazor-webassembly-app.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-split-buttons-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-split-buttons-github-samples)
 
