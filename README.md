@@ -10,8 +10,8 @@ The [Blazor Split Button](https://www.syncfusion.com/blazor-components/blazor-sp
 ## How to run the project
 
 * Checkout this project to a location in your disk.
-* Open the solution file using Visual Studio, or run `dotnet run` from the project directory.
-* Restore the NuGet packages by rebuilding the solution.
+* Open the project in Visual Studio, or run `dotnet run` from the project directory.
+* Restore the NuGet packages by rebuilding the project.
 * Run the project.
 
 ## Features and benefits
